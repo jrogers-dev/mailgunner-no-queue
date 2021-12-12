@@ -1,5 +1,5 @@
 # README
-
+```
 This app functions as an API backend for sending emails via Mailgun's API. 
 
 It utilizes Rails as the API server, JSON Web Tokens via Devise for authentication, 
@@ -115,3 +115,4 @@ reset_password:
 
 Once the payload is successfully delivered, your message will be sent shortly. 
 If you're using a sandboxed domain, the email will likely land in your spam folder.
+```
