@@ -1,0 +1,2 @@
+Thanks for signing up for %{arg1}!
+Make sure to check out our %{arg2}, %{arg3}, and %{arg4}!

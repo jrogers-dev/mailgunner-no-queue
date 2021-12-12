@@ -1,0 +1,3 @@
+Welcome to %[arg1].
+Please click the following link to confirm your email address:
+%[arg2]
